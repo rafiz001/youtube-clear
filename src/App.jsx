@@ -11,6 +11,9 @@ function App() {
       <Route path="/" element={<>rafiz index</> } />
       <Route path="/test" element={<>fiz test <p className='text-red-500'>this is styled</p></> } />
     </Routes>
+
+   
+
     </>
   )
 }
