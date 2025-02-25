@@ -2,6 +2,7 @@
 import { NavLink, Route, Routes } from 'react-router'
 import Settings from './routes/Settings'
 import Channels from './routes/Channels'
+import VideoList from './routes/VideoList'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
       <Route path="/" element={<Channels/> } />
       <Route path="/player" element={<>fiz test <p className='text-red-500'>this is styled</p></> } />
       <Route path="/settings" element={<Settings /> } />
+      <Route path="/videoList/:cid" element={<VideoList /> } />
     </Routes>
 
     <div className="dock">
