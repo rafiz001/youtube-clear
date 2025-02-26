@@ -30,12 +30,12 @@ function Settings(props) {
                 <div className="card-body">
                     <h2 className="card-title">Channel info</h2>
                     <p>
-                        <input type="text" value={chId} onChange={(e) => setChId(e.target.value)} placeholder="UCJJBtUqjm-QjJ7Cvtz0yqbQ" className="input" />
-                        <input type="text" value={chName} onChange={(e) => setChName(e.target.value)} placeholder="A nice channel name" className="input mt-2" />
+                        <input type="text" value={chId} onChange={(e) => setChId(e.target.value)} placeholder="UCJJBtUqjm-QjJ7Cvtz0yqbQ" className="input " />
+                        <input type="text" value={chName} onChange={(e) => setChName(e.target.value)} placeholder="A nice channel name" className="input mt-2 " />
 
                     </p>
                     <div className="justify-end card-actions">
-                        <button onClick={() => save()} className="btn btn-primary">Add {chName}</button>
+                        <button onClick={() => save()} className="btn btn-primary ">Add {chName}</button>
                     </div>
                 </div>
             </div>
