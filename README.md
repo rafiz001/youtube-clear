@@ -1,8 +1,15 @@
-# React + Vite
+# Youtube Clear
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repo can help to view youtube videoes without ads and only for speicific channels, so it is very helpful for children. 
 
-Currently, two official plugins are available:
+Live view -> [github page](rafiz001.github.io/youtube-clear/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Android app -> [github release](https://github.com/rafiz001/youtube-clear/releases/download/v1.1/app-debug.apk)
+
+how to add channel:
+- Copy youtube channel id like 
+```
+UCKD8oQW8vdzxWFjC1hSoCyw
+``` 
+- Now goto the app setting and paste this id and then set a title to save. 
+- Now it is ready to view.

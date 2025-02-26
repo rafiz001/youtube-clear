@@ -8,5 +8,5 @@ export default defineConfig({
   server: {
     port: 1234,
   },
-  base: "youtube-clear"
+  base: "/youtube-clear"
 })
