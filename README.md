@@ -2,7 +2,7 @@
 
 This repo can help to view youtube videoes without ads and only for speicific channels, so it is very helpful for children. 
 
-Live view -> [github page](rafiz001.github.io/youtube-clear/)
+Live view -> [github page](https://rafiz001.github.io/youtube-clear/)
 
 Android app -> [github release](https://github.com/rafiz001/youtube-clear/releases/download/v1.1/app-debug.apk)
 
